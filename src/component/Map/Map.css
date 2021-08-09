@@ -1,0 +1,11 @@
+.bg-map {
+    margin-top: 10px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.text-map {
+    color: white;
+    text-align: center;
+    background-color: teal;
+}

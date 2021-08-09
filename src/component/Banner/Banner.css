@@ -1,0 +1,27 @@
+.total-data {
+    width: 90%;
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 4px;
+    background-color: blue;
+}
+
+.total-harga {
+    width: 90%;
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 4px;
+    background-color: rgb(207, 74, 74);
+}
+
+.total-kategori {
+    width: 90%;
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 4px;
+    background-color: orange;
+}
+
+.bg {
+    background-color: rgb(37, 35, 35);
+}

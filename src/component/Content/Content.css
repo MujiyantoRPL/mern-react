@@ -1,0 +1,17 @@
+.isi-content {
+    width: 100%;
+    height: 100%;
+}
+
+.bg-content {
+    margin-top: 10px;
+    background-color: rgb(107, 102, 102);
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.text-yt {
+    color: white;
+    text-align: center;
+    background-color: teal;
+}
